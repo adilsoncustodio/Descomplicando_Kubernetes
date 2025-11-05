@@ -1,0 +1,5 @@
+deploy nginx
+
+criar um cluster kind 1 control-plane 3 worker
+
+
